@@ -13,7 +13,7 @@
   },
   "[javascript]": {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    
   },
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 5,
@@ -29,5 +29,6 @@
   "zenMode.hideTabs": false,
   "editor.minimap.enabled": false,
   "workbench.settings.openDefaultSettings": true,
-  "workbench.settings.editor": "json"
+  "workbench.settings.editor": "json",
+ 
 }
